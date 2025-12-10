@@ -5,6 +5,7 @@ description = "Python solutions for Advent of Code 2025"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "pulp>=3.3.0",
     "pytest>=9.0.1",
 ]
 
